@@ -158,7 +158,7 @@ Cloud services remain possible, but they should be explicit architectural choice
         ┌──────────────────────────────┐
         │        Local Runtime         │
         │                              │
-Human ─►│ STT → Intelligence → TTS    │─► Human
+Human ─►│ STT → Intelligence → TTS     │─► Human
         │                              │
         │      Open Engineering        │
         └──────────────────────────────┘
